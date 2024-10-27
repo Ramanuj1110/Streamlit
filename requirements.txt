@@ -1,5 +1,2 @@
 streamlit
-seaborn
-plotly
-scipy
-pandas
+
